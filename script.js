@@ -86,7 +86,7 @@ var getDaysInMonth = function(month,year) {
 
 
 
-   
+
 
         // program 4
 //   Write a JavaScript function to get the month name from a particular date.   
@@ -108,6 +108,8 @@ var month_name = function(dt){
 
 
 
+
+    
            // program 5
 
 //     Write a JavaScript function to compare dates (i.e. greater than, less than or equal to).   
