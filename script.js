@@ -25,7 +25,7 @@
 
 
 
-  
+
    // program 2
 
 //   Write a JavaScript function to get the current date.   
@@ -51,6 +51,7 @@ var curday = function(ap){
     console.log(curday('/'));
     console.log(curday('-'));
 
+    
 
 
 
