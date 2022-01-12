@@ -1605,6 +1605,7 @@ console.log(diff_months(dt1, dt2));
 
 
 
+
 // Write a JavaScript function to get the week start date.  
 
 function startOfWeek(date)
