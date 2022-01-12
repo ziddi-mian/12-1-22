@@ -307,6 +307,7 @@ function max_date(all_dates) {
 
 
     
+    
      // program11
 
 // Write a JavaScript function to get the maximum date from an array of dates. Go to the editor
