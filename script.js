@@ -362,7 +362,7 @@ function min_date(all_dates) {
 
 
 
-   
+
 
 
    
@@ -388,6 +388,8 @@ function timeConvert(n) {
 
 
 
+
+    
 
     
       //Write a JavaScript function to get the amount of days of a year.   
