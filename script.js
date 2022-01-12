@@ -109,7 +109,7 @@ var month_name = function(dt){
 
 
 
-    
+
            // program 5
 
 //     Write a JavaScript function to compare dates (i.e. greater than, less than or equal to).   
@@ -133,6 +133,7 @@ var compare_dates = function(date1,date2){
 console.log(compare_dates(new Date('12/18/2021 00:00'), new Date('12/18/2021 00:00')));
 console.log(compare_dates(new Date('12/18/2021 00:01'), new Date('12/18/2021 00:00')));
 console.log(compare_dates(new Date('12/18/2021 00:00'), new Date('12/18/2021 00:01')));
+
 
 
 
