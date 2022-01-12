@@ -1354,6 +1354,8 @@ console.log(daylights_savings(dt));
 
 
 
+
+
 // Write a JavaScript function to get timezone offset in seconds.   
 // Note : The offset for timezones west of UTC is always negative, and for those east of UTC is always positive.
 // Test Data :
