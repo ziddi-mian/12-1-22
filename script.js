@@ -1034,6 +1034,7 @@ console.log(full_year(dt));
 
 
 
+
 // Write a JavaScript function to get a two digit representation of a year.   
 // Examples : 79 or 04
 // Test Data :
