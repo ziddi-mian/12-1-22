@@ -245,7 +245,7 @@ var date_diff_indays = function(date1, date2) {
 
 
 
-    
+
     
     
      //     progrm 10
@@ -268,6 +268,9 @@ var yesterday =  function(date1){
 console.log(yesterday('Nov 15, 2014'));
 console.log(yesterday('Nov 16, 2015'));
 console.log(yesterday('Nov 17, 2016'));
+
+
+
 
 
 
