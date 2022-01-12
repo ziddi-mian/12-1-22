@@ -214,7 +214,8 @@ var date_diff_indays = function(date1, date2) {
     }
     console.log(date_diff_indays('04/02/2014', '11/04/2014'));
     console.log(date_diff_indays('12/02/2014', '11/04/2014'));
-c
+
+    
 
 
 
